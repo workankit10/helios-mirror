@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "monarchy-project-gcp",
+  "private_key_id": "4d72c99dd41407acb37d8c5bc4ff47ea87d366d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDfZRUqMrdYaBv\noWFoC2PCnm7AzlNbM4n1T2ZTyDLn26UCx/+SFBaS8JiVHIZTkBbhqsnoy00uTjBZ\nuZ0cE66oK6Afygcj67kNm1MTnuap4QieFv4IoGTw36zrfwsgvhbNBoBzevXBeVBd\nnLENdQYu8tyvRZGk+rFJUv343wM45hw9hnQLWNj26v0emUFkA8oWedwJ3g/U+kgE\nuBGNR0Wk8MPMej1bRgNGmDxxb5BKarz/icfY0Ojjz5bOD4Z/fmfzElE8Dkot8GUU\nUJzjXDxDzIzCnKKA1hG3dc256ZD9T9sUUySR3FJFvOHrbLwpN+x1nuC0V8gU0eei\nt/GJa3VbAgMBAAECggEAEIXwQB//yZEJxPWtRhe6wZJJLS2831DU+jGEWVRRQF/d\nxVIcBWZPEPHNPvYCwO34XFZmeErN7FO6g9++6ka1mzKlkM18J53LoRB97jYexY2n\nABzt/gYRXuFtyOSoXAbR5lfRPcsb5roqWa2eGQbJOrWkHOjMUL2WhFD2wduW3Tuo\npQKRo5WsI+otlMxEDUDYu3FKXV4JWq4Z0i+a8dXQtIYwEZeeI5C9BFwTRoy0df1a\nqz8e/7fuUqtqWLRt7qQhx8dIP+HfP9jOUo2jnevI7lEPuPzGS6dDb9R3F4ax72uf\npodT5r9QeSDqIrMbK1qkjWHTdnuobY0P4vTUVVQVhQKBgQD4YTM2PidyfYtSLrR+\nrCo9V6mYF5RJpsuT7pLZmyTd0IUGR37qgvrXLUKAttQQHe5f1qsRcIlnuPbiI/J1\nEBiuZvg8NNu144C84EB1AllW4H3IRJoH9Fl/Tron7sa5g2SaxuRvrGdZYOeBOixT\nI2SxdROLzMBpwsuhWWjbBiZwfQKBgQDJfPuG+xpHFKkfVMw5ACKWyKgFVzL2GHfN\nUhSogEtWJ74cK05r+Q+wgEU6bURjnO5t+2F7JMth5etaUnHCqtKTE8XlK1UPGPzp\nIg4IAGQwyIrgvJl+Gh108U2zWnuDE8kC/H8pmHT+kS88UgJkDnPz75IGsuZ9B67j\nmiXa7e78twKBgAkJ+IQj1OmsufI+suDdQRhEZW6chQ/9GvGCQCPdKoVL/ltRJMRC\nCgDkq8PlY2hGvpMMS+Nxlf6JU6q9Jiiuckd+hdAjGE/RPLEi9BWOBVRNDSbJoFVj\nxhIE+m9TmDXOG04qqMuLmaM+DI6+YDiSVCrFGPYAeIwgw6pWh6NY4PM9AoGAS4LE\nfRzEB1mN3EkaVE5hqCLBHWdFmQcodtFJHrEeCsbQL5xnQn3PzHT1/OSQWcipbpxk\nNxNeCW1yW6JEMhF041vosW8g7IyP1AtIOOV0pvexXHIyEBlXask4Nnw1h7U1gyH/\nwiX5yqG8kx2k+byU5hmln08SpE7p0zCk+TxscVcCgYAQDPmqqJsTZPCF1EAny+xZ\nPVNYXm9xKks7TsosFTa/hktJDfQ83GMTgSkrIobh3I96E7/GDm7rvmJVbZEb+Rb9\ntpPQclKYYzNeLRmsofM42lMiyLQCd11rfJN91KdFLxmRe8JIlmaCPPZkCdH668Cv\nbXqqFWt54OMboUVe3fBj3A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-dno8uocs1d22z91i2u94fa6cyn@monarchy-project-gcp.iam.gserviceaccount.com",
+  "client_id": "102535597488131569172",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-dno8uocs1d22z91i2u94fa6cyn%40monarchy-project-gcp.iam.gserviceaccount.com"
+}
